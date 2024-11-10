@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.calcifer1331</groupId>
+    <artifactId>JavaImageConverter</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>Java Image Converter</name>
+    <description>Java library for image format conversion using ImageMagick.</description>
+    <url></url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://choosealicense.com/licenses/mit/</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>calcifer1331</id>
+            <name>Yoseph Arauz</name>
+            <url>https://github.com/Calcifer1331</url>
+        </developer>
+    </developers>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
